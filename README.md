@@ -1,4 +1,4 @@
-# Scalability-Word-Count
-Top 100 most common words used in thesubreddit r/AskReddit using MapReduce
+# Scalability Analysis of HDFS and Apache Spark Clusters
+Top 100 most common words used in the subreddit r/AskReddit using MapReduce
 
 
